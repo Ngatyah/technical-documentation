@@ -1,0 +1,19 @@
+body{
+  background-color: lightblue;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+.nav-link{
+  color: purple;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+ 
+}
+    
+
+ 
